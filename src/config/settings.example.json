@@ -1,0 +1,4 @@
+{
+    "API_ENDPOINT": "https://api.twitter-simulator.local/user",
+    "TIMEOUT": 5
+}
